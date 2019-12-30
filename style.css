@@ -1,0 +1,8 @@
+.list {
+    list-style: none;
+}
+
+.item a {
+    text-decoration: none;
+    color: #000;
+}
